@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @nutchanon9
+- 👀 I’m interested in Software Developer
+- 🌱 I’m currently learning Coding Language,Developer Mindset
